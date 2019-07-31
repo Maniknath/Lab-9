@@ -1,0 +1,7 @@
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\obj\Debug\Lab 9.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\manik\OneDrive\Desktop\C# .NET Class\VS Projects\Class Projects\Lab\Lab 9\Lab 9\obj\Debug\Lab 9.pdb
